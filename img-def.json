@@ -1,0 +1,6 @@
+[
+  {
+    "name": "gora-container",
+    "imageUri": "668616241190.dkr.ecr.ap-south-1.amazonaws.com/gora:latest"
+  }
+]
